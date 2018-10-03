@@ -1,0 +1,3 @@
+call third.bat
+
+pause

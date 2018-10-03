@@ -1,0 +1,3 @@
+call second.bat
+
+pause
