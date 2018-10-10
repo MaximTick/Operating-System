@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ChangeDirectory.cpp
+d:\study3course\operatingsystem\os_labs\os_lab04\os_lab04\changedirectory\changedirectory.cpp(15): warning C4129: s: неизвестная escape-последовательность
+d:\study3course\operatingsystem\os_labs\os_lab04\os_lab04\changedirectory\changedirectory.cpp(15): warning C4129: O: неизвестная escape-последовательность
+  ChangeDirectory.vcxproj -> D:\study3course\OperatingSystem\OS_Labs\OS_Lab04\OS_Lab04\Debug\ChangeDirectory.exe

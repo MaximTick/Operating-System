@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  CopyFile.cpp
+d:\study3course\operatingsystem\os_labs\os_lab04\os_lab04\copyfile\copyfile.cpp(14): warning C4101: Buffer: неиспользованная локальная переменная
+d:\study3course\operatingsystem\os_labs\os_lab04\os_lab04\copyfile\copyfile.cpp(17): warning C4101: fp: неиспользованная локальная переменная
+d:\study3course\operatingsystem\os_labs\os_lab04\os_lab04\copyfile\copyfile.cpp(16): warning C4101: dwNumberOfBytes: неиспользованная локальная переменная
+d:\study3course\operatingsystem\os_labs\os_lab04\os_lab04\copyfile\copyfile.cpp(15): warning C4101: hIn: неиспользованная локальная переменная
+  CopyFile.vcxproj -> D:\study3course\OperatingSystem\OS_Labs\OS_Lab04\OS_Lab04\Debug\CopyFile.exe
